@@ -5,7 +5,7 @@
 A Java console application that checks password strength and generates secure passwords.
 
 ## ✨ Features
-- **Strength Checker: Evaluates length, character diversity (uppercase, digits, symbols)
+- Strength Checker: Evaluates length, character diversity (uppercase, digits, symbols)
 - Password Generator: Creates cryptographically-strong random passwords
 - Activity Logging: Saves results to `security_log.txt`
 
